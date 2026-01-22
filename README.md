@@ -49,14 +49,13 @@ This initiative aims to **strengthen scientific and computational capacity** in 
 ---
 
 ## ✨ Credits
-Created by **Ibrahim Ali**, computational physicist and educator.  
-Inspired by the **AMLD Africa** mission to make machine learning education **inclusive, ethical, and accessible**.
+Created by **Ibrahim Omer Abdallah Ali**, computational physicist and educator.  
 
 ---
 
 ## 📬 Contact / Feedback
 Have questions or want to share feedback? Please reach out:  
-**Email:** ibrahim.ali@example.com *(replace with your actual email)*
+**Email:** ibraphysics@gmail.com *(replace with your actual email)*
 
 ---
 
